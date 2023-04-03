@@ -8,7 +8,7 @@
 
 ## 事前設定
 ・[template](https://github.com/hitorigotsu/Backup/tree/master/template)から「Backup.conf」を入手します。
-Sourceにコピー元となるフォルダ、Targetにはコピー先となるフォルダを指定します、
+Sourceにコピー元となるフォルダ、Targetにはコピー先となるフォルダを指定します。
 
 ・「Backup.ps1」内の`$Conf`と`$Log_Folder`にフォルダパスを設定します。
 
